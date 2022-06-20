@@ -17,7 +17,7 @@ Django and Python Needed
 First you need to clone this project to your local machine 
 
 ```
-git clone https://github.com/Developer-Gitonga/neighborly.git
+git clone 
 ```
 
 ### Installing
@@ -57,7 +57,7 @@ python3 manage.py runserver
 
 
 ## Contact details
-Email: aizensalim52@gmail.com
+Email: mercykanene254@gmail.com
 ## MIT licence
 
 <p>Copyright (c) 2022 Moringa School </p>
